@@ -14,7 +14,11 @@ This is a simple command-line tool that converts grayscale images into ASCII art
 ## 📁 Project Structure
 
 ascii-art-renderer/
-<pre> ascii-art-renderer/ ├── convert_to_pgm.py ├── image.pgm ├── render.c └── render </pre>
+<pre> ascii-art-renderer/ 
+├── convert_to_pgm.py 
+├── image.pgm 
+├── render.c 
+└── render </pre>
 
 ---
 

@@ -1,0 +1,5 @@
+```gitignore
+render
+*.pgm
+__pycache__/
+*.pyc
